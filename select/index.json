@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ラビットホール",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-07T12:00:29.300638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ラビットホール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "DECO27",
+      "has_synced": true,
+      "path": "select/02_ラビットホール_DECO27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_ラビットホール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "deco27",
+      "has_synced": true,
+      "path": "select/04_ラビットホール_deco27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_ラビットホール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/06_ラビットホール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラビットホール (Rabbit Hole)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_ラビットホール_(Rabbit_Hole)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラビットホール (Rabbit Hole) (Reloaded)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/08_ラビットホール_(Rabbit_Hole)_(Reloaded)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラビットホール (Rabbit Hole)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/09_ラビットホール_(Rabbit_Hole)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラビットホール - Rabbit Hole",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/10_ラビットホール_-_Rabbit_Hole_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラビットホール",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/11_ラビットホール_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラビットホール (Paused)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/12_ラビットホール_(Paused)_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ラビットホール_DECO_27.txt"
+    }
+  ]
+}
